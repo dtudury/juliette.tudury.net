@@ -1,0 +1,22 @@
+{
+  "name": "juliette.tudury.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtudury/juliette.tudury.net.git"
+  },
+  "author": "Juliette Tudury <juliette.tudury@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtudury/juliette.tudury.net/issues"
+  },
+  "homepage": "https://github.com/dtudury/juliette.tudury.net#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
